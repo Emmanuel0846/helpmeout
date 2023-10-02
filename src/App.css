@@ -1,0 +1,15 @@
+h3{
+  text-align: right;
+  z-index: 1000;
+  padding: 0 70px;
+  padding-top: 50px;
+  margin-left: -50px;
+}
+
+.name {
+  text-align: left;
+  z-index: 1000;
+  padding: 0 0;
+  margin-left: -50px;
+  padding-top: 50px;
+}
